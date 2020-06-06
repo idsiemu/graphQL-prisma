@@ -1,0 +1,4 @@
+node_modules/
+yarn_lock
+yarn_error.log
+docker-compose.yml
